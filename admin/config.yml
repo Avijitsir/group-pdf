@@ -3,7 +3,7 @@ backend:
   repo: avijitsir/group-pdf
   branch: main 
   auth_type: implicit
-  app_id: Ov23liV_bavSqU716oCv # আপনার Client ID
+  app_id: Ov23liVbavSqU716oCv # আপনার Client ID
 
 # PDF ফাইলগুলি এই ফোল্ডারে সেভ হবে
 media_folder: "uploads/pdfs"
